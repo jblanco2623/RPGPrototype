@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8E10DE2F-46AE-ED0C-A4EA-549402961A88}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TopDownBase50",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
